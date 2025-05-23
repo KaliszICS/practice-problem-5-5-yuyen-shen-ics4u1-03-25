@@ -3,6 +3,9 @@ Table.class
 Cat.class
 Horse.class
 Moveable.class
+Card.class
 PracticeProblem.class
 Notes.class
 Animal.class
+Comparable.class
+Student.class
